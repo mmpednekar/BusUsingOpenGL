@@ -7,3 +7,8 @@ sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev
 
 #Compile Code
 g++ DRAWBUS.cpp -lGL -lGLU -lglut -lm
+
+#Use
+L: Round the Bus
+O: Lights On/Off
+C: Change to Line/Fill
